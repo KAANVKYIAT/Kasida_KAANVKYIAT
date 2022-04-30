@@ -13,7 +13,7 @@ tools:context=".Kasida_product_for_users">
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="100dp"
-        app:cardElevation="10dp"
+        app:cardElevation="11dp"
         app:cardCornerRadius="26dp"
         android:layout_margin="10dp">
 
