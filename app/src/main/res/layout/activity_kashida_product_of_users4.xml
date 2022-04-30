@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    android:background="#fff"
+    android:background="#DFDDDD"
     android:layout_height="match_parent"
     tools:context=".Kasida_product_for_users">
 
