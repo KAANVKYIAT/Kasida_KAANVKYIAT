@@ -8,6 +8,7 @@ import android.widget.ImageView
 import android.os.Handler
 
 class splash_screen_kasida : AppCompatActivity() {
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_splash_screen_kasida)

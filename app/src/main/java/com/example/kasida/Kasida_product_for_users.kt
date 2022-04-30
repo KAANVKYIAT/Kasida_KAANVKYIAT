@@ -58,8 +58,8 @@ class Kasida_product_for_users : AppCompatActivity() {
         }
 
 
-        button_4 = findViewById(R.id.btn_4)
 
+        button_4 = findViewById(R.id.btn_4)
         button_4.setOnClickListener {
             val intent = Intent(this, Kasida_taking_input_from_users::class.java)
 
@@ -70,7 +70,6 @@ class Kasida_product_for_users : AppCompatActivity() {
 
         button_forward.setOnClickListener {
             val intent = Intent(this, Kasida_product_for_users_1::class.java)
-
 
             startActivity(intent)
     }

@@ -17,9 +17,7 @@
         <activity
             android:name=".kashida_product_of_users_4"
             android:exported="false" />
-        <activity
-            android:name=".userfirstpage_options_painting_bags"
-            android:exported="false" />
+
         <activity
             android:name=".Kasida_product_for_users_3"
             android:exported="false" />

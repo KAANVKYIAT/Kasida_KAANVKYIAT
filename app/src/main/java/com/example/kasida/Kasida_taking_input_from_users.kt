@@ -72,10 +72,7 @@ class Kasida_taking_input_from_users : AppCompatActivity(), PaymentResultListene
             options.put("image","https://s3.amazonaws.com/rzp-mobile/images/rzp.png")
             options.put("theme.color", "#3399cc");
             options.put("currency","INR");
-
             options.put("amount","30000")//pass amount in currency subunits
-
-
             val prefill = JSONObject()
             prefill.put("email","")
             prefill.put("contact","")

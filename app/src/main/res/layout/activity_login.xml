@@ -21,9 +21,9 @@
         android:layout_height="50dp"
         android:layout_below="@+id/app_logo"
         android:layout_marginTop="10dp"
-        android:hint="Email"
+        android:hint="@string/babloo"
+        android:inputType="textEmailAddress"
         android:textColorHint="#fff"
-
         android:paddingLeft="13dp"
         android:fontFamily="@font/roboto_condensed_bold"
         android:textColor="#fff"
@@ -72,7 +72,6 @@
         android:text="SIGN UP"
         android:textStyle="bold"
         android:textColor="@color/black"
-
         android:background="@drawable/btn_background"
         android:textSize="20sp"/>
 

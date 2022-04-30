@@ -12,7 +12,7 @@
         <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/activity_kasida_product_for_users.xml" value="0.39553752535496955" />
         <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/activity_kasida_product_for_users1.xml" value="0.4" />
         <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/activity_kasida_product_for_users2.xml" value="0.264" />
-        <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/activity_kasida_product_for_users3.xml" value="0.24615384615384617" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/activity_kasida_product_for_users3.xml" value="0.1" />
         <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/activity_kasida_product_for_users5.xml" value="0.25" />
         <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/activity_kasida_taking_input_from_users.xml" value="0.25" />
         <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/activity_login.xml" value="0.25" />
@@ -30,7 +30,7 @@
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_14_PREVIEW" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
